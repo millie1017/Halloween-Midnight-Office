@@ -1,0 +1,4 @@
+Background reading for content review:
+https://www.ic3.gov/CSA/2026/260108.pdf
+https://www.cisa.gov/sites/default/files/publications/fact-sheet-implement-number-matching-in-mfa-applications-508c.pdf
+Follow local organization-specific reporting and account-recovery procedures.
